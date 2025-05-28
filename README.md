@@ -49,7 +49,7 @@ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU')
 
 To use the application, run the following command:
 ```bash
-python3 gesture_efficientnet.py
+python gesture_efficientnet.py
 ```
 
 ## Contributions
