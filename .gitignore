@@ -1,0 +1,36 @@
+# Ignore Dataset_alpha and its copies
+Dataset_alpha/
+Dataset_alpha_copy/
+
+# Ignore Original_Dataset
+Data
+Original_Dataset/
+Dataset
+asl_dataset
+asl
+Models
+Data
+major_env
+.env
+
+# Ignore classmates_test_images
+classmates_test_images/
+Segmented_Dataset/
+runs/
+
+# Ignore files with .h5 extension
+*.h5
+
+# Ignore files with .pth extension
+*.pth
+*.keras
+*.log
+*.zip
+Non_Git
+
+#ignore 
+.DS_Store
+__pycache__/
+
+major
+Curves
